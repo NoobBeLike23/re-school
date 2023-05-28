@@ -1,0 +1,122 @@
+body{
+    padding: 0px;
+    margin: 0;
+}
+
+
+.header{
+    margin: 0;
+    width: 100%;
+    height: 15vh;
+    background-color: black;
+    background-size:contain ;
+    flex-direction: row-reverse;
+
+    
+}
+
+.headertext{
+    color: white;
+    margin: 0px;
+    margin-top: 25px;
+    padding-top: 150px;
+    padding-left: 48%;
+    
+}
+    
+
+.headertext:hover{
+    color: black;
+   cursor: pointer;
+   
+}
+.headerright{
+    background-color: aqua;
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 5vh;
+}
+
+
+
+
+
+
+.img{
+    width: 50%;
+    height: 50%;
+}
+
+.content1{
+    width: 100%;
+    height: 140vh;
+    display: flex;
+    align-items: center;
+   background-color: blue;
+
+   
+}
+
+
+.buttonclass{
+    text-decoration: none;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid green;
+    margin: 4px;
+    padding: 4px;
+    border-radius: 8px;
+    font-size: small;
+    
+
+}
+.buttonclass:hover{
+    background-color: green;
+    color: white;
+}
+
+
+
+
+
+.right{
+    background-color: black;
+    width: 50%;
+   
+    height: 70vh;
+    background-image: url(https://i.imgflip.com/65l6uf.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.left{
+    background-color: rgb(250, 0, 0);
+    width: 50%;
+    height: 70vh;
+}
+
+.footer{
+
+    width: 100%;
+    height: 30vh;
+    background-color: rgb(251, 0, 0);
+}
+
+
+
+.headerleft{
+
+
+width: 50%;
+
+display: flex;
+
+}
+
+t
+
+
+
